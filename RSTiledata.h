@@ -1,6 +1,7 @@
 #ifndef __RSTiledata_header__
 #define __RSTiledata_header__
 
+
 typedef enum {
     RSTiledataBuilding = 1,
     RSTiledataHighwayMotorway = 2,
@@ -10,5 +11,9 @@ typedef enum {
     RSTiledataHighwayResidential = 6,
     RSTiledataHighwayService = 7
 } RSTiledataThingType;
+
+
+int RSTiledataThingTypeIsClosedWay(RSTiledataThingType thingType);
+
 
 #endif

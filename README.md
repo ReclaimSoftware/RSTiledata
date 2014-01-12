@@ -7,6 +7,8 @@ typedef enum {
     // [...]
     RSTiledataHighwayService = 7
 } RSTiledataThingType;
+
+int RSTiledataThingTypeIsClosedWay(RSTiledataThingType thingType);
 ```
 
 ## Datapack
