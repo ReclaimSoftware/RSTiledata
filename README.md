@@ -2,6 +2,8 @@
 
 [![Build Status](https://secure.travis-ci.org/ReclaimSoftware/RSTiledata.png)](http://travis-ci.org/ReclaimSoftware/RSTiledata)
 
+### [License: MIT](LICENSE.txt)
+
 
 ## RSTiledata.h
 
