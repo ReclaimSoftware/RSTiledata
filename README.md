@@ -1,12 +1,12 @@
-## ThingType
+## RSTiledata.h
 
 ```c
 typedef enum {
-    RSMapsThingTypeBuilding = 1,
-    RSMapsThingTypeHighwayMotorway = 2,
+    RSTiledataBuilding = 1,
+    RSTiledataHighwayMotorway = 2,
     // [...]
-    RSMapsThingTypeHighwayService = 7
-} RSMapsThingType;
+    RSTiledataHighwayService = 7
+} RSTiledataThingType;
 ```
 
 ## Datapack
