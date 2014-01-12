@@ -1,3 +1,8 @@
+**A simple space-efficient format for individual tiles of map data**
+
+[![Build Status](https://secure.travis-ci.org/ReclaimSoftware/RSTiledata.png)](http://travis-ci.org/ReclaimSoftware/RSTiledata)
+
+
 ## RSTiledata.h
 
 ```c
